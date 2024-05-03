@@ -39,9 +39,7 @@ function Sidebar({openSidebarToggle, OpenSidebar}) {
                 </button>
             </li>
             <li className='sidebar-list-item'>
-                <button onClick={() => router.push('/map')}>
-                    <BsPeopleFill className='icon'/> Map
-                </button>
+               
             </li>
            
            
